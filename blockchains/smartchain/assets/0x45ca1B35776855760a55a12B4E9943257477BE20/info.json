@@ -1,1 +1,21 @@
-{ }
+{
+  "name": "SoraMix",
+  "symbol": "SRMX",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "SoraMix (SRMX) powers the SoraMix IP collectible and wearable ecosystem, merging NFTs, characters, and real-world blockchain experiences.",
+  "website": "https://realfitm.com",
+  "explorer": "https://bscscan.com/token/0x45ca1B35776855760a55a12B4E9943257477BE20",
+  "status": "active",
+  "id": "0x45ca1B35776855760a55a12B4E9943257477BE20",
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/RealFitm"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/RealFiTM"
+    }
+  ]
+}

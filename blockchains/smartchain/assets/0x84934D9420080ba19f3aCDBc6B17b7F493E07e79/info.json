@@ -1,1 +1,21 @@
-{ }
+{
+  "name": "BitBurnX",
+  "symbol": "BBRX",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "BitBurnX (BBRX) is the RealFi ecosystem’s utility token for presale allocation, rewards, and burn-driven deflationary mechanics.",
+  "website": "https://realfitm.com",
+  "explorer": "https://bscscan.com/token/0x84934D9420080ba19f3aCDBc6B17b7F493E07e79",
+  "status": "active",
+  "id": "0x84934D9420080ba19f3aCDBc6B17b7F493E07e79",
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/RealFitm"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/RealFiTM"
+    }
+  ]
+}

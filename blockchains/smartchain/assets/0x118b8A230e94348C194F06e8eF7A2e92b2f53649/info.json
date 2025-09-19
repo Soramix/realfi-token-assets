@@ -1,1 +1,21 @@
-{ }
+{
+  "name": "RealFi Token",
+  "symbol": "RLF",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "RealFi Token (RLF) is the governance and platform token of the RealFi ecosystem, used for staking, governance, and platform fee utilities.",
+  "website": "https://realfitm.com",
+  "explorer": "https://bscscan.com/token/0x118b8A230e94348C194F06e8eF7A2e92b2f53649",
+  "status": "active",
+  "id": "0x118b8A230e94348C194F06e8eF7A2e92b2f53649",
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/RealFitm"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/RealFiTM"
+    }
+  ]
+}
