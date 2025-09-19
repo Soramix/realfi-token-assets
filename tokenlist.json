@@ -1,0 +1,32 @@
+{
+  "name": "RealFi Token List",
+  "logoURI": "https://raw.githubusercontent.com/Soramix/realfi-token-assets/main/realfi-logo.png",
+  "keywords": ["realfi", "crypto", "defi"],
+  "timestamp": "2025-09-18T10:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x84934D9420080ba19f3aCDBc6B17b7F493E07e79",
+      "symbol": "BBRX",
+      "name": "BitBurnX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Soramix/realfi-token-assets/main/bbrx.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x118b8A230e94348C194F06e8eF7A2e92b2f53649",
+      "symbol": "RLF",
+      "name": "RealFi Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Soramix/realfi-token-assets/main/rlf.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x45ca1B35776855760a55a12B4E9943257477BE20",
+      "symbol": "SRMX",
+      "name": "SoraMix",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Soramix/realfi-token-assets/main/srmx.png"
+    }
+  ]
+}
